@@ -1,4 +1,6 @@
 ## Hi there 👋
+I am currently learning Backend development with TechyJaunt.
+
 
 <!--
 **JoyDonatus/JoyDonatus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
